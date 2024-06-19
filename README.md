@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://johnnyzhov.github.io/cv/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio]([https://johnnyzhov.github.io/cv/](https://johnnyzhov.github.io/react-portfolio/))**
 
 - 📫 How to reach me **izhovnych@rrc.ca**
 
